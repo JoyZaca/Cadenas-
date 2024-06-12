@@ -1,3 +1,4 @@
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 el codigo HTML es muy facil de usar, en 
 este caso lo usamos para comparar cadenas
 que son las cadenas en la rama de programacion,
